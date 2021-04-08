@@ -1,0 +1,111 @@
+.header {
+	background-color: #48DEA2;
+	height: 8vh;
+	display: block;
+    
+}
+
+.header p{
+	font-size: 3vh;
+	color: white;
+	padding: 5px;
+}
+
+.textArea input{
+    height :4vh;
+    margin-left: 1vw;
+    width: 200px;
+}
+label{
+    font-size:2.5vh;
+    margin: 0px 10px;
+}
+.buttons{
+  margin:3vh;
+  margin-left: 2vw;
+}
+
+.textArea{
+    margin:1px;
+}
+
+.forms {
+    border-right: solid;
+    border-width: 5px;
+    border-color: #48DEA2;
+    margin-top : 6vh;
+}
+
+.label_{
+    margin-left: 3vw;
+    width: 9vw;
+}
+
+.input_{
+    margin-left:3vw;
+}
+
+.tableDiv{
+    margin: 4vh 6vw;
+    width: 80%; 
+    max-width:40vw;
+    max-height: 70vh;
+}
+
+.gender {
+    margin-left: 4vw;
+    width: 8vw;
+}
+
+.female{
+    margin-left:16.18vw;
+}
+
+.skills_{
+    margin-left: 8.6vw;
+}
+
+.skills{
+    margin-left:3.2vw;
+    margin-top:-2vh;
+}
+
+.firstRow {
+    background-color: #9CCF47 !important;
+    line-height:0.5vh;
+    color:aliceblue;
+}
+
+.foot {
+    background-color: #48DEA2;
+	position: fixed;
+    border: 1px black solid ;
+    bottom: 0;
+    width: 100%;
+    font-weight: bolder;
+    color: white;
+    text-align: center; 
+}
+
+table, th, td {
+    border: 1px solid #9CCF47;
+
+}
+
+.tableHeader{
+    margin-top:4vh;
+    font-size: 3vh;
+}
+
+html, body{
+    margin: 0px;
+
+}
+
+.description{
+    width:30vw;
+}
+
+tr:nth-child(odd) {
+    background-color: #F1FDCC;
+}
